@@ -1,0 +1,1 @@
+This is my Final Project for CSC235! It is code for a motion sensor controlling 4 leds, as well as a button controlling neopixels! The code is meant for a porsche model I developed, which the electronics go inside of (headlights, taillights, extra colors made by neopixels).
